@@ -1,0 +1,6 @@
+chipaca.com/intmath v0.0.0-20240107165604-1cd09d94024c h1:Ky+LsKq2SQPHUQvoOPKwfohMFfAc+7WdFRaBBUHrjE0=
+chipaca.com/intmath v0.0.0-20240107165604-1cd09d94024c/go.mod h1:65JUHgTnG5jbBPTIe6UFaEM1OoNfqOcb7PGLLbTEUBU=
+github.com/go-test/deep v1.1.0 h1:WOcxcdHcvdgThNXjw0t76K42FXTU7HpNQWHpA2HHNlg=
+github.com/go-test/deep v1.1.0/go.mod h1:5C2ZWiW0ErCdrYzpqxLbTX7MG14M9iiw8DgHncVwcsE=
+golang.org/x/exp v0.0.0-20240103183307-be819d1f06fc h1:ao2WRsKSzW6KuUY9IWPwWahcHCgR0s52IfwutMfEbdM=
+golang.org/x/exp v0.0.0-20240103183307-be819d1f06fc/go.mod h1:iRJReGqOEeBhDZGkGbynYwcHlctCvnjTYIamk7uXpHI=
