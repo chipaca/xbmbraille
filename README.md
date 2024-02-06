@@ -1,6 +1,8 @@
 # xbm❤braille
 
-XBM to Braille converter (the ❤ is silent)
+XBM to Braille converter (the ❤ is silent).
+
+You can read a bit more about this over [on my blog](https://chipaca.com/en/2024/01/xbmbraille/), but you don't need to.
 
 # installation
 
